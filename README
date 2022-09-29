@@ -1,4 +1,4 @@
-from textblob import TextBlob  #!pip install textblob
+from textblob import TextBlob             #!pip install textblob
 x=input("Type a word:>>>>")
 words = [x]
 corrected_words = []
